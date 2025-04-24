@@ -1,3 +1,10 @@
+EA\inputs
+EA\outputs
+EA\figures
+inputs
+outputs
+figures
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
